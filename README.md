@@ -1,0 +1,2 @@
+# hades
+Hades stock analyzer
